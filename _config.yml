@@ -20,7 +20,7 @@
 
 title: "Teaching Machine Learning Workshop at ECML-PKDD 2020"
 baseurl: "/2020" # the subpath of your site, e.g. /blog
-url: "https://teaching-ml.github.io/2020" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://teaching-ml.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github: "https://github.com/teaching-ml/2020/"
 
 
