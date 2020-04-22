@@ -8,8 +8,9 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>{{ site.title }}</title>
+  <title>{{ page.title }}</title>
 
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <!-- Bootstrap core CSS -->
   <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -41,5 +42,4 @@
   </script>
 
 </body>
-
 </html>
