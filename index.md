@@ -3,53 +3,103 @@ layout: index
 title: 'Teaching ML @ ECML-PKDD 2020'
 ---
 
-
 ## About this workshop
 
-Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning is, providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, quality and public availability have come to existence. To this date and to the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. With our workshop, we want to start an academic discussion on what works and what doesn't in order to help improve existing material and to make conceiving new material more effective.
+Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning (ML) is, providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, quality and public availability have come to existence. To this date and to the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. 
+
+With our workshop, we want to start an academic discussion on what works and what doesn't. We would like to help improve existing material as a community and to make conceiving new material more effective.
 
 ## Motivation
 
-Many experts and practitioners who develop Machine Learning models or infrastructure around these models are confronted with the opportunity or duty to teach machine learning at some point in their career. Traditionally, many  rely on their gut feeling to design courses that are motivated by these circumstances. The methods of choice are often Power Point or similar technologies and a lot of copy&pasting from the web. 
+Many experts and practitioners who develop Machine Learning models or infrastructure around these models are confronted with the opportunity or duty to teach Machine Learning at some point in their career. Traditionally, many  rely on their gut feeling to design courses that are motivated by these circumstances. The methods of choice are often Power Point or similar technologies and a lot of copy & pasting from the web. 
 
-This workshop targets those who would like to know how teachers from around the globe approach teaching Machine Learning: How deep do they dive into the matter? What mental models do they use to visualize concepts? What media is at play in teaching ML by others? 
+This workshop targets those who would like to know how teachers from around the globe approach teaching Machine Learning: How deep do they dive into the matter? What mental models do they use to visualize concepts? What media is at play in teaching ML by others? And much more.
 
-With this workshop, we hope that by the end of the day, all participants have a better feeling where they stand with their teaching. By collecting teaching examples, we also hope to lay the basis of subsequent studies on trends and directions in the field of didactics of AI.
+With this workshop, we hope that all participants obtain a better feeling where they stand with their teaching and where they can improve or collaborate with others.
 
 ## Topics Covered
 
-The main goal of this workshop is to motivate and nourish best practices at any stage of the teaching process. For this, we would like to cover a structured approach to teaching motivated by [the carpentries][cdh] or a variation thereof. As we believe that core concepts contained in this are vital for any teaching practitioners, we will discuss these during the workshop. Aspects of these include: course context, pre- and post-workshop surveys, learner profiles, learning goals and objectives, giving teaching feedback. With this, we hope to equip attendees with a structured approach to teaching.
+The main goal of this workshop is to motivate and nourish best practices at any stage of the teaching process. For this, we would like to cover a structured approach to teaching motivated by [the carpentries][https://cdh.carpentries.org/] or a variation thereof. As we believe that core concepts contained in this are vital for any teaching practitioners. 
 
-The central activity of the workshop will be a (potentially parallel) **presentation of 5-10 minute lightning talks** in the afternoon session. These contributions recruit themselves from a **call-for-papers prior to the workshop**. We like to attract at maximum 3 page long mini articles that present or discuss a teaching activity related to machine learning. These mini papers are expected to present teaching examples from various aspects of teaching ML. For example:
+The central activity of the workshop will be a twofold: 
 
-* a demo of how to teach backpropagation
+1. a call-for-papers whereby teaching professionals or beginners are asked to describe their method of choice when teaching a given ML topic. We like to attract at maximum 4 page long mini articles (excluding references and acknowledgments) that present or discuss a teaching activity related to machine learning. For more details, see below.
+
+2. (potentially parallel) **presentations of 5-10 minute lightning talks** during the workshop at ECML PKDD 2020 which present accepted papers mentioned above. For more details, see below.
+
+## Call For Papers
+
+We invite interested parties to submit a mini-paper describing a specific peace of teaching related to Machine Learning. These mini papers are expected to present teaching examples from various aspects of ML. For example:
+
+* a demo of how to teach back-propagation
 * expectation management for non-computer science learners of ML
 * a discussion of an instructive data set for teaching Convolutional Neural Networks
 * an interactive web application to play with parameters of a classifier (SVM, CNN, MLP, ...)
 * a teaching metaphor to illustrate time series prediction
-* a (interactive) vizualisation of stochastic gradient decent
+* how does bagging work?
+* how can training a Deep Neural Network be parallized?
+* an (interactive) visualization of stochastic gradient decent
+* ...
 
-Depending on the interest in the workshop, we will conduct an open peer review on all contributions and select contributions based on the reviewers feedback.
+Each paper is kindly asked to answer at least the following questions (if applicable):
 
-Participants of the afternoon session will be motivated to provide feedback to their peers. Depending on the room and number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for furture activites.
+* what is the target audience?
+* what is the expected skill set of the target audience?
+* what are the key questions your approach wants to answer?
+* what are the teaching objectives?
+* what are key points you wish to address?
 
-## Programme
+### Paper Format
 
-| Time     | Title                                          | Speaker             |
+Papers must be written in English and formatted according to the [ICML 2019 latex template](https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc).
+
+The maximum length of papers is 4 pages (excluding references and acknowledgements) in this format. The program chairs reserve the right to reject any over-length papers without review. Papers that ‘cheat’ the page limit by, including but not limited to, using smaller than specified margins or font sizes will also be treated as over-length. Note that for example negative vspaces are also not allowed.
+
+Additional materials (e.g. proofs, audio, images, video, data, or source code) can be provided as URLs inside the paper of your submission. The reviewers and the program committee reserve the right to judge the paper solely on the basis of the 4 pages; looking at any additional material is at the discretion of the reviewers and is not required.
+
+We strive to pursue a double-blind review process. All papers need to be ‘best-effort’ anonymized. We strongly encourage to also make code and data available anonymously (e.g., in an anonymous git repository or Dropbox folder). It is allowed to have a (non-anonymous) pre-print online, but it should not be cited in the submitted paper to preserve anonymity. Reviewers will be asked not to search for them.
+
+### Paper Reviews
+
+We will conduct an open double-blinded peer review using [openreview.net](https://openreview.net) on all contributions and select contributions based on the reviewers feedback. Here are important dates:
+
+- April 27, 2020: Submission opens
+- June 26, 2020: Submission Deadline (no submissions past this date)
+- August 1, 2020: Paper Confirmations
+
+Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. If you'd like to help out reviewing papers, please let us know and open an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
+
+## Workshop
+
+### Preface 
+
+To prepare for the workshop, we plan a series of online events and talks prior to the conference. Please stay tuned to find out more in due course.
+
+| Date | Title                                          | Speaker             |
 | :--      | :--                                            | :--                 |
-| 09.00 am | Welcome                                        | Organizers          |
-| 09.30 am | Didactics of Data                              | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
-| 10.00 am | Experiences with MOOCs                         | [Elisabeth Sulmont](https://www.datacamp.com/instructors/lis-7740a67d-ab2a-4517-a218-5ad9fd6cb998) |
-| 10.30 am | Coffee break                                   |                     |
-| 11.00 am | Experiences in Lectures                        | [Heide Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
-| 11.30 am | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
-| 12.00 am | Lunch                                          |                     |
-| 01.00 pm | Preface (Parallel) Teaching Example Session    | Organizers          |
-| 01.30 pm | How to give feedback                           | Organizers          |
-| 02.15 pm | Teaching Example Presentations                 | All                 |
-| 02.45 pm | Coffee break                                   |                     |
-| 03.15 pm | Teaching Example Presentations                 | All                 |
-| 05.00 pm | Coffee break                                   |                     |
-| 05.30 pm | Summary Teaching Example Presentations         | All                 |
-| 06.00 pm | Farewell and Next Steps                        | Organizers          |
-| 06.30 pm | End                                            |                     |
+| tba | Welcome                                        | Organizers          |
+| tba | Didactics of Data                              | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
+| tba | Experiences with MOOCs                         | [Elisabeth Sulmont](https://www.datacamp.com/instructors/lis-7740a67d-ab2a-4517-a218-5ad9fd6cb998) |
+| tba | Experiences in Lectures                        | [Heide Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
+| tba | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
+
+### At the Conference
+
+Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the room and number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities.
+
+| Time | Title                                          | Speaker             |
+| :--      | :--                                            | :--                 |
+| 09.00 am | Preface (Parallel) Teaching Example Session    | Organizers          |
+| 09.30 am | How to give feedback                           | Organizers          |
+| 10.15 am | Teaching Example Presentations                 | All                 |
+| 10.45 am | Coffee break                                   |                     |
+| 11.15 am | Teaching Example Presentations                 | All                 |
+| 12.30 pm | Lunch                              |                     |
+| 01.30 pm | Summary Teaching Example Presentations         | All                 |
+| 02.00 pm | Farewell and Next Steps                        | Organizers          |
+
+The timing of the above is tentative as it will crucially depend on the venue and exact schedule of the conference.
+
+## Questions, Concerns or Feedback
+
+We are happy to hear from you regarding your questions, concerns or feedback. Please do so by opening an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
