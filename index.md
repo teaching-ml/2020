@@ -1,5 +1,6 @@
 ---
 layout: index
+title: 'Teaching ML @ ECML-PKDD 2020'
 ---
 
 ## About this workshop
