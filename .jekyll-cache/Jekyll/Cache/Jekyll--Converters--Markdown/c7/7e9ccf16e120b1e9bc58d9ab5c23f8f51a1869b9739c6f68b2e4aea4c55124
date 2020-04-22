@@ -1,0 +1,125 @@
+I"O<h2 id="about-this-workshop">About this workshop</h2>
+
+<p>Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning is, providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, quality and public availability have come to existence. To this date and to the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. With our workshop, we want to start an academic discussion on what works and what doesn’t in order to help improve existing material and to make conceiving new material more effective.</p>
+
+<h2 id="impact">Impact</h2>
+
+<p>Many experts and practitioners who develop Machine Learning models or infrastructure around these models are confronted with the opportunity or duty to teach machine learning at some point in their career. Traditionally, many  rely on their gut feeling to design courses that are motivated by these circumstances. The methods of choice are often Power Point or similar technologies and a lot of copy&amp;pasting from the web.</p>
+
+<p>This workshop targets those who would like to know how teachers from around the globe approach teaching Machine Learning: How deep do they dive into the matter? What mental models do they use to visualize concepts? What media is at play in teaching ML by others?</p>
+
+<p>With this workshop, we hope that by the end of the day, all participants have a better feeling where they stand with their teaching. By collecting teaching examples, we also hope to lay the basis of subsequent studies on trends and directions in the field of didactics of AI.</p>
+
+<h2 id="topics-covered">Topics Covered</h2>
+
+<p>The main goal of this workshop is to motivate and nourish best practices at any stage of the teaching process. For this, we would like to cover a structured approach to teaching motivated by [the carpentries][cdh] or a variation thereof. As we believe that core concepts contained in this are vital for any teaching practitioners, we will discuss these during the workshop. Aspects of these include: course context, pre- and post-workshop surveys, learner profiles, learning goals and objectives, giving teaching feedback. With this, we hope to equip attendees with a structured approach to teaching.</p>
+
+<p>The central activity of the workshop will be a (potentially parallel) <strong>presentation of 5-10 minute lightning talks</strong> in the afternoon session. These contributions recruit themselves from a <strong>call-for-papers prior to the workshop</strong>. We like to attract at maximum 3 page long mini articles that present or discuss a teaching activity related to machine learning. These mini papers are expected to present teaching examples from various aspects of teaching ML. For example:</p>
+
+<ul>
+  <li>a demo of how to teach backpropagation</li>
+  <li>expectation management for non-computer science learners of ML</li>
+  <li>a discussion of an instructive data set for teaching Convolutional Neural Networks</li>
+  <li>an interactive web application to play with parameters of a classifier (SVM, CNN, MLP, …)</li>
+  <li>a teaching metaphor to illustrate time series prediction</li>
+  <li>a (interactive) vizualisation of stochastic gradient decent</li>
+</ul>
+
+<p>Depending on the interest in the workshop, we will conduct an open peer review on all contributions and select contributions based on the reviewers feedback.</p>
+
+<p>Participants of the afternoon session will be motivated to provide feedback to their peers. Depending on the room and number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn’t. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for furture activites.</p>
+
+<h2 id="tentative-timetable">Tentative Timetable</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">time</th>
+      <th style="text-align: left">Title</th>
+      <th style="text-align: left">Speaker</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">9.00 am</td>
+      <td style="text-align: left">Welcome</td>
+      <td style="text-align: left">Organizers</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">9.30 am</td>
+      <td style="text-align: left">Didactics of Data</td>
+      <td style="text-align: left"><a href="https://www.doc.gold.ac.uk/~mas01rf/homepage/">Rebecca Fiebrink</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: right">10.00 am</td>
+      <td style="text-align: left">Experiences with MOOCs</td>
+      <td style="text-align: left"><a href="https://www.datacamp.com/instructors/lis-7740a67d-ab2a-4517-a218-5ad9fd6cb998">Elisabeth Sulmont</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: right">10.30 am</td>
+      <td style="text-align: left">Coffee break</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">11.00 am</td>
+      <td style="text-align: left">Experiences in Lectures</td>
+      <td style="text-align: left"><a href="http://www.compstat.statistik.uni-muenchen.de/people/seibold/">Heide Seibold</a>, <a href="https://www.compstat.statistik.uni-muenchen.de/people/bischl/">Bernd Bischl</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: right">11.30 am</td>
+      <td style="text-align: left">Experiences in Bootcamps/Compact Courses</td>
+      <td style="text-align: left"><a href="https://www.mn.uio.no/geo/english/people/adm/annefou/">Anne Fouillioux</a>, <a href="https://github.com/psteinb/">Peter Steinbach</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: right">12.00 am</td>
+      <td style="text-align: left">Lunch</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">1.00 pm</td>
+      <td style="text-align: left">Preface (Parallel) Teaching Example Session</td>
+      <td style="text-align: left">Organizers</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">1.30 pm</td>
+      <td style="text-align: left">How to give feedback</td>
+      <td style="text-align: left">Organizers</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">2.15 pm</td>
+      <td style="text-align: left">Teaching Example Presentations</td>
+      <td style="text-align: left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">2.45 pm</td>
+      <td style="text-align: left">Coffee break</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">3.15 pm</td>
+      <td style="text-align: left">Teaching Example Presentations</td>
+      <td style="text-align: left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">5.00 pm</td>
+      <td style="text-align: left">Coffee break</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">5.30 pm</td>
+      <td style="text-align: left">Summary Teaching Example Presentations</td>
+      <td style="text-align: left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">6.00 pm</td>
+      <td style="text-align: left">Farewell and Next Steps</td>
+      <td style="text-align: left">Organizers</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">6.30 pm</td>
+      <td style="text-align: left">End</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+:ET
