@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: index
 ---
 
@@ -10,7 +7,7 @@ layout: index
 
 Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning is, providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, quality and public availability have come to existence. To this date and to the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. With our workshop, we want to start an academic discussion on what works and what doesn't in order to help improve existing material and to make conceiving new material more effective.
 
-## Impact
+## Motivation
 
 Many experts and practitioners who develop Machine Learning models or infrastructure around these models are confronted with the opportunity or duty to teach machine learning at some point in their career. Traditionally, many  rely on their gut feeling to design courses that are motivated by these circumstances. The methods of choice are often Power Point or similar technologies and a lot of copy&pasting from the web. 
 
@@ -35,11 +32,7 @@ Depending on the interest in the workshop, we will conduct an open peer review o
 
 Participants of the afternoon session will be motivated to provide feedback to their peers. Depending on the room and number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for furture activites.
 
-
-
-
-
-## Timetable
+## Programme
 
 | Time     | Title                                          | Speaker             |
 | :--      | :--                                            | :--                 |
