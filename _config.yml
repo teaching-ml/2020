@@ -21,6 +21,7 @@
 title: "Teaching Machine Learning at ECML-PKDD 2020"
 baseurl: "/Teaching-Machine-Learning-at-ECML-PKDD-2020" # the subpath of your site, e.g. /blog
 url: "https://oliverguhr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github: "https://github.com/oliverguhr/Teaching-Machine-Learning-at-ECML-PKDD-2020"
 
 
 # Build settings
