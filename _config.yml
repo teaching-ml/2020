@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Teaching Machine Learning at ECML-PKDD 2020"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Teaching-Machine-Learning-at-ECML-PKDD-2020" # the subpath of your site, e.g. /blog
+url: "https://oliverguhr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
