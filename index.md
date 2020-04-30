@@ -19,7 +19,7 @@ With this workshop, we hope that all participants obtain a better feeling where 
 
 ## Topics Covered
 
-The main goal of this workshop is to motivate and nourish best practices at any stage of the teaching process. For this, we would like to cover a structured approach to teaching motivated by [the carpentries][https://cdh.carpentries.org/] or a variation thereof. We believe that the core concepts contained in this are helpful for any teaching practitioners. 
+The main goal of this workshop is to motivate and nourish best practices at any stage of the teaching process. For this, we would like to cover a structured approach to teaching motivated by [the carpentries](https://cdh.carpentries.org/) or a variation thereof. We believe that the core concepts contained in this are helpful for any teaching practitioners. 
 
 The central activity of the workshop will be twofold: 
 
