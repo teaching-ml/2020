@@ -45,8 +45,12 @@ Each paper is kindly asked to answer at least the following questions (if applic
 * Who is the target audience?
 * What is the expected skill set of the target audience?
 * What are the key questions your approach wants to answer?
-* What are the teaching objectives?
+* What are the teaching objectives? What will your learners learn?
 * What are key points you wish to address?
+
+### Submission
+
+Submissions can be made [here](https://openreview.net/group?id=ECMLPKDD.org/2020/Workshop/TeachML) until June 26, 2020.
 
 ### Paper Format
 
