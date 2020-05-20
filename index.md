@@ -29,7 +29,7 @@ The central activity of the workshop will be twofold:
 
 ## Call For Papers
 
-We invite interested parties to submit a mini-paper describing a specific peace of teaching related to Machine Learning. These mini-papers are expected to present teaching examples from various aspects of ML. For example:
+We invite interested parties to submit a mini-paper describing a specific piece of teaching related to Machine Learning. These mini-papers are expected to present teaching examples from various aspects of ML. For example:
 
 * A demo of how to teach back-propagation
 * Expectation management for non-computer science learners of ML
