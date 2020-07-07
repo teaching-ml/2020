@@ -49,7 +49,7 @@ Each submitted paper will be reviewed publicly by at least two experienced machi
 
 ## Workshop
 
-### Preface 
+### Preface
 
 To prepare for the workshop, we plan a series of online events and talks before the conference. Please stay tuned to find out more in due course.
 
@@ -61,22 +61,22 @@ To prepare for the workshop, we plan a series of online events and talks before 
 | tba | Experiences in Lectures                        | [Heide Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
 | tba | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
 
-### At the Conference
+### The Workshop
 
-Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the room and number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities.
+Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities.
 
-| Time | Title                                          | Speaker             |
+| Time     | Title                                          | Speaker             |
 | :--      | :--                                            | :--                 |
-| 09.00 am | Preface (Parallel) Teaching Example Session    | Organizers          |
-| 09.30 am | How to give feedback                           | Organizers          |
-| 10.15 am | Teaching Example Presentations                 | All                 |
-| 10.45 am | Coffee break                                   |                     |
-| 11.15 am | Teaching Example Presentations                 | All                 |
-| 12.30 pm | Lunch                              |                     |
-| 01.30 pm | Summary Teaching Example Presentations         | All                 |
-| 02.00 pm | Farewell and Next Steps                        | Organizers          |
+| 09.30 am | Welcome                                        | Organizers          |
+| 09.45 am | Paper Presentations                            | All Authors         |
+| 11.00 am | Coffee break                                   |                     |
+| 11.20 am | Workshop (Remote)                              | All                 |
+| 13.00 pm | Lunch                                          |                     |
+| 02.00 pm | Wrap-Up Session                                | All                 |
+| 02.30 pm | Farewell and Next Steps                        | Organizers          |
+| 02.45 pm | End                                            |                     |
 
-The timing of the above is tentative as it will crucially depend on the venue and exact schedule of the conference.
+Please note that this will be a virtual workshop.
 
 ## Questions, Concerns or Feedback
 
