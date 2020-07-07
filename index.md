@@ -49,7 +49,7 @@ Each submitted paper will be reviewed publicly by at least two experienced machi
 
 ## Workshop
 
-### Preface
+### Preface - 8. September 2020
 
 To prepare for the workshop, we plan a series of online events and talks before the conference. Please stay tuned to find out more in due course.
 
@@ -61,7 +61,7 @@ To prepare for the workshop, we plan a series of online events and talks before 
 | tba | Experiences in Lectures                        | [Heide Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
 | tba | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
 
-### The Workshop
+### The Workshop - 14. September 2020
 
 Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities.
 
