@@ -27,9 +27,10 @@ The central activity of the workshop will be twofold:
 
 2. (potentially parallel) **presentations of 5-10 minute lightning talks** during the workshop at ECML PKDD 2020 which present accepted papers mentioned above. For more details, see below.
 
-### Paper Format
+### Proceedings and Paper Format
 
-Papers must be written in English and formatted according to the [ICML 2019 latex template](https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc).
+All papers will be published in with [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+The papers must be written in English and formatted according to the [ICML 2019 latex template](https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc).
 
 The maximum length of papers is 4 pages (excluding references and acknowledgements) in this format. The program chairs reserve the right to reject any over-length papers without review. Papers that ‘cheat’ the page limit by, including but not limited to, using smaller than specified margins or font sizes will also be treated as over-length. Note that for example negative vspaces are also not allowed.
 
