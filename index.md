@@ -47,7 +47,7 @@ We will conduct an open double-blinded peer-review using [openreview.net](https:
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. If you'd like to help out reviewing papers, please let us know and open an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
 
-## Workshop
+## Programme
 
 ### Preface - 8. September 2020
 
