@@ -27,31 +27,6 @@ The central activity of the workshop will be twofold:
 
 2. (potentially parallel) **presentations of 5-10 minute lightning talks** during the workshop at ECML PKDD 2020 which present accepted papers mentioned above. For more details, see below.
 
-## Call For Papers
-
-We invite interested parties to submit a mini-paper describing a specific piece of teaching related to Machine Learning. These mini-papers are expected to present teaching examples from various aspects of ML. For example:
-
-* A demo of how to teach back-propagation
-* Expectation management for non-computer science learners of ML
-* A discussion of an instructive data set for teaching Convolutional Neural Networks
-* An interactive web application to play with parameters of a classifier (SVM, CNN, MLP, ...)
-* A teaching metaphor to illustrate time series prediction
-* How does bagging work?
-* How can training process of a Deep Neural Network be parallelized?
-* An (interactive) visualization of stochastic gradient descent
-
-Each paper is kindly asked to answer at least the following questions (if applicable):
-
-* Who is the target audience?
-* What is the expected skill set of the target audience?
-* What are the key questions your approach wants to answer?
-* What are the teaching objectives? What will your learners learn?
-* What are key points you wish to address?
-
-### Submission
-
-Submissions can be made [here](https://openreview.net/group?id=ECMLPKDD.org/2020/Workshop/TeachML) until June 26, 2020.
-
 ### Paper Format
 
 Papers must be written in English and formatted according to the [ICML 2019 latex template](https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc).
