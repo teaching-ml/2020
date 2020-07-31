@@ -58,8 +58,7 @@ To prepare for the workshop, we plan a series of online events and talks before 
 | :--      | :--                                            | :--                 |
 | tba | Welcome                                        | Organizers          |
 | tba | Didactics of Data                              | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
-| tba | Experiences with MOOCs                         | [Elisabeth Sulmont](https://www.datacamp.com/instructors/lis-7740a67d-ab2a-4517-a218-5ad9fd6cb998) |
-| tba | Experiences in Lectures                        | [Heide Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
+| tba | Experiences in Lectures                        | [Heidi Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
 | tba | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
 
 ### The Workshop - 14. September 2020
