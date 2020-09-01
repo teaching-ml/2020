@@ -19,35 +19,64 @@ With this workshop, we hope that all participants obtain a better feeling where 
 
 ## Programme
 
-### Preface - September 8, 2020
+### Preface Satellite Event - September 8, 2020
 
 To prepare for the workshop, we plan one online event with talks before the conference. See the agenda below. All times are in the CEST timezone.
 
-| Date | Title                                          | Speaker             |
+| Time/CEST | Title                                          | Speaker             |
 | :--      | :--                                            | :--                 |
 | 9am | Welcome                                        | Organizers          |
 | 9.10am | Didactics of Data                              | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
 | 9.50am | Experiences in Lectures                        | [Heidi Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
 | 10.30am | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
 
-Each presenter will have 30 minutes time with an additional 5 minutes for questions. 
+Each presenter will have 30 minutes time with an additional 5 minutes for questions. **Note that this workshop will be recorded.**
+
+The zoom connection details are:
+
+```
+Topic: ECMLPKDD 2020 Teaching Machine Learning Satellite Event
+Time: Sep 8, 2020 09:00 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/81430859704
+
+Meeting ID: 814 3085 9704
+One tap mobile
++493056795800,,81430859704# Germany
++496938079883,,81430859704# Germany
+
+Dial by your location
+        +49 30 5679 5800 Germany
+        +49 69 3807 9883 Germany
+        +49 695 050 2596 Germany
+        +49 69 7104 9922 Germany
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 646 558 8656 US (New York)
+        +1 669 900 9128 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Germantown)
+Meeting ID: 814 3085 9704
+Find your local number: https://us02web.zoom.us/u/kb8M4CMyCw
+```
 
 ### The Workshop - September 14, 2020
 
 Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities. See the agenda below. All times are in the CEST timezone.
 
-| Time     | Title                                          | Speaker             |
-| :--      | :--                                            | :--                 |
-| 09.30 am | Welcome                                        | Organizers          |
-| 09.45 am | Paper Presentations                            | All Authors         |
-| 11.00 am | Coffee break                                   |                     |
-| 11.20 am | Workshop (Remote)                              | All                 |
-| 13.00 pm | Lunch                                          |                     |
-| 02.00 pm | Wrap-Up Session                                | All                 |
-| 02.30 pm | Farewell and Next Steps                        | Organizers          |
-| 02.45 pm | End                                            |                     |
+| Time/CEST | Title                   | Speaker     |
+| :--       | :--                     | :--         |
+| 09.30 am  | Welcome                 | Organizers  |
+| 09.45 am  | Paper Presentations     | All Authors |
+| 11.00 am  | Coffee break            |             |
+| 11.20 am  | Workshop (Remote)       | All         |
+| 13.00 pm  | Lunch                   |             |
+| 02.00 pm  | Wrap-Up Session         | All         |
+| 02.30 pm  | Farewell and Next Steps | Organizers  |
+| 02.45 pm  | End                     |             |
 
-Please note that this will be a virtual workshop.
+Please note that this will be a virtual workshop only.
 
 ## Topics Covered
 
