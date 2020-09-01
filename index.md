@@ -17,6 +17,38 @@ This workshop targets those who would like to know, how teachers from around the
 
 With this workshop, we hope that all participants obtain a better feeling where they stand with their teaching and how they can improve or collaborate with others.
 
+## Programme
+
+### Preface - September 8, 2020
+
+To prepare for the workshop, we plan one online event with talks before the conference. See the agenda below. All times are in the CEST timezone.
+
+| Date | Title                                          | Speaker             |
+| :--      | :--                                            | :--                 |
+| 9am | Welcome                                        | Organizers          |
+| 9.10am | Didactics of Data                              | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
+| 9.50am | Experiences in Lectures                        | [Heidi Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
+| 10.30am | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
+
+Each presenter will have 30 minutes time with an additional 5 minutes for questions. 
+
+### The Workshop - September 14, 2020
+
+Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities. See the agenda below. All times are in the CEST timezone.
+
+| Time     | Title                                          | Speaker             |
+| :--      | :--                                            | :--                 |
+| 09.30 am | Welcome                                        | Organizers          |
+| 09.45 am | Paper Presentations                            | All Authors         |
+| 11.00 am | Coffee break                                   |                     |
+| 11.20 am | Workshop (Remote)                              | All                 |
+| 13.00 pm | Lunch                                          |                     |
+| 02.00 pm | Wrap-Up Session                                | All                 |
+| 02.30 pm | Farewell and Next Steps                        | Organizers          |
+| 02.45 pm | End                                            |                     |
+
+Please note that this will be a virtual workshop.
+
 ## Topics Covered
 
 The main goal of this workshop is to motivate and nourish best practices at any stage of the teaching process. For this, we would like to cover a structured approach to teaching motivated by [the carpentries](https://cdh.carpentries.org/) or a variation thereof. We believe that the core concepts contained in this are helpful for any teaching practitioners. 
@@ -47,36 +79,6 @@ We will conduct an open double-blinded peer-review using [openreview.net](https:
 - August 1, 2020: Paper Confirmations
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. If you'd like to help out reviewing papers, please let us know and open an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
-
-## Programme
-
-### Preface - 8. September 2020
-
-To prepare for the workshop, we plan a series of online events and talks before the conference. Please stay tuned to find out more in due course.
-
-| Date | Title                                          | Speaker             |
-| :--      | :--                                            | :--                 |
-| tba | Welcome                                        | Organizers          |
-| tba | Didactics of Data                              | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
-| tba | Experiences in Lectures                        | [Heidi Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
-| tba | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
-
-### The Workshop - 14. September 2020
-
-Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities.
-
-| Time     | Title                                          | Speaker             |
-| :--      | :--                                            | :--                 |
-| 09.30 am | Welcome                                        | Organizers          |
-| 09.45 am | Paper Presentations                            | All Authors         |
-| 11.00 am | Coffee break                                   |                     |
-| 11.20 am | Workshop (Remote)                              | All                 |
-| 13.00 pm | Lunch                                          |                     |
-| 02.00 pm | Wrap-Up Session                                | All                 |
-| 02.30 pm | Farewell and Next Steps                        | Organizers          |
-| 02.45 pm | End                                            |                     |
-
-Please note that this will be a virtual workshop.
 
 ## Questions, Concerns or Feedback
 
