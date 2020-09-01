@@ -76,7 +76,35 @@ Participants of the workshop session will be motivated to provide feedback to th
 | 02.30 pm  | Farewell and Next Steps | Organizers  |
 | 02.45 pm  | End                     |             |
 
-Please note that this will be a virtual workshop only.
+Please note that this will be a virtual workshop only using the [zoom](https://zoom.us) video conferencing utlity. The connection details are:
+
+```
+Topic: ECMLPKDD 2020 Teaching Machine Learning Workshop
+Time: Sep 14, 2020 09:30 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/87113621879
+
+Meeting ID: 871 1362 1879
+One tap mobile
++496938079883,,87113621879# Germany
++496950502596,,87113621879# Germany
+
+Dial by your location
+        +49 69 3807 9883 Germany
+        +49 695 050 2596 Germany
+        +49 69 7104 9922 Germany
+        +49 30 5679 5800 Germany
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 646 558 8656 US (New York)
+        +1 669 900 9128 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+Meeting ID: 871 1362 1879
+Find your local number: https://us02web.zoom.us/u/keudG8EVrK
+
+```
 
 ## Topics Covered
 
