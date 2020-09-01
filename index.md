@@ -114,7 +114,16 @@ The central activity of the workshop will be twofold:
 
 1. a call-for-papers whereby teaching professionals or beginners are asked to describe their method of choice when teaching a given ML topic. We like to attract at maximum 4-page long mini-articles (excluding references and acknowledgements) that present or discuss a teaching activity related to machine learning. For more details, see below.
 
-2. (potentially parallel) **presentations of 5-10 minute lightning talks** during the workshop at ECML PKDD 2020 which present accepted papers mentioned above. For more details, see below.
+2. **presentations of 5 minute lightning talks of all accepted papers** during the workshop at ECML PKDD 2020
+
+### Accepted Papers
+
+* "Introductory Machine Learning for non STEM students" by Javier Garcia-Algarra, https://openreview.net/forum?id=aLdr-6rFn5j
+* "An Interactive Web Application for Decision Tree Learning" by Miriam Elia, Carola Gajek, Alexander Schiendorfer, Wolfgang Reif, https://openreview.net/forum?id=aLdr-6rFn5j
+* "Teaching Computational Machine Learning (without Statistics)" by Katherine M. Kinnaird, https://openreview.net/forum?id=oeM-Rb7nqoh
+* "AI is not Just a Technology" by Claudia Engel, Nicole Coleman; https://openreview.net/forum?id=CF_7wpDpCmp
+* "Teaching the Foundations of Machine Learning with Candy" by Daniela Huppenkothen, Gwendolyn Eadie; https://openreview.net/forum?id=a37DEwWs1wu
+* "Turning Software Engineers into Machine Learning Engineers" by Alexander Schiendorfer, Carola Gajek, Wolfgang Reif; https://openreview.net/forum?id=jm5E97TTMEb
 
 ### Proceedings and Paper Format
 
