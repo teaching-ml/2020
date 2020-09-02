@@ -17,6 +17,95 @@ This workshop targets those who would like to know, how teachers from around the
 
 With this workshop, we hope that all participants obtain a better feeling where they stand with their teaching and how they can improve or collaborate with others.
 
+## Programme
+
+### Preface Satellite Event - September 8, 2020
+
+To prepare for the workshop, we plan one online event with talks before the conference. See the agenda below. All times are in the CEST timezone.
+
+| Time/CEST | Title                                          | Speaker             |
+| :--      | :--                                            | :--                 |
+| 9am | Welcome                                        | Organizers          |
+| 9.10am | Didactics of Data                              | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
+| 9.50am | Experiences in Lectures                        | [Heidi Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
+| 10.30am | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
+
+Each presenter will have 30 minutes time with an additional 5 minutes for questions. **Note that this workshop will be recorded.**
+
+The zoom connection details are:
+
+```
+Topic: ECMLPKDD 2020 Teaching Machine Learning Satellite Event
+Time: Sep 8, 2020 09:00 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/81430859704
+
+Meeting ID: 814 3085 9704
+One tap mobile
++493056795800,,81430859704# Germany
++496938079883,,81430859704# Germany
+
+Dial by your location
+        +49 30 5679 5800 Germany
+        +49 69 3807 9883 Germany
+        +49 695 050 2596 Germany
+        +49 69 7104 9922 Germany
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 646 558 8656 US (New York)
+        +1 669 900 9128 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Germantown)
+Meeting ID: 814 3085 9704
+Find your local number: https://us02web.zoom.us/u/kb8M4CMyCw
+```
+
+### The Workshop - September 14, 2020
+
+Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities. See the agenda below. All times are in the CEST timezone.
+
+| Time/CEST | Title                   | Speaker     |
+| :--       | :--                     | :--         |
+| 09.30 am  | Welcome                 | Organizers  |
+| 09.45 am  | Paper Presentations     | All Authors |
+| 11.00 am  | Coffee break            |             |
+| 11.20 am  | Workshop (Remote)       | All         |
+| 13.00 pm  | Lunch                   |             |
+| 02.00 pm  | Wrap-Up Session         | All         |
+| 02.30 pm  | Farewell and Next Steps | Organizers  |
+| 02.45 pm  | End                     |             |
+
+Please note that this will be a virtual workshop only using the [zoom](https://zoom.us) video conferencing utlity. The connection details are:
+
+```
+Topic: ECMLPKDD 2020 Teaching Machine Learning Workshop
+Time: Sep 14, 2020 09:30 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/87113621879
+
+Meeting ID: 871 1362 1879
+One tap mobile
++496938079883,,87113621879# Germany
++496950502596,,87113621879# Germany
+
+Dial by your location
+        +49 69 3807 9883 Germany
+        +49 695 050 2596 Germany
+        +49 69 7104 9922 Germany
+        +49 30 5679 5800 Germany
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 646 558 8656 US (New York)
+        +1 669 900 9128 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+Meeting ID: 871 1362 1879
+Find your local number: https://us02web.zoom.us/u/keudG8EVrK
+
+```
+
 ## Topics Covered
 
 The main goal of this workshop is to motivate and nourish best practices at any stage of the teaching process. For this, we would like to cover a structured approach to teaching motivated by [the carpentries](https://cdh.carpentries.org/) or a variation thereof. We believe that the core concepts contained in this are helpful for any teaching practitioners. 
@@ -25,7 +114,16 @@ The central activity of the workshop will be twofold:
 
 1. a call-for-papers whereby teaching professionals or beginners are asked to describe their method of choice when teaching a given ML topic. We like to attract at maximum 4-page long mini-articles (excluding references and acknowledgements) that present or discuss a teaching activity related to machine learning. For more details, see below.
 
-2. (potentially parallel) **presentations of 5-10 minute lightning talks** during the workshop at ECML PKDD 2020 which present accepted papers mentioned above. For more details, see below.
+2. **presentations of 5 minute lightning talks of all accepted papers** during the workshop at ECML PKDD 2020
+
+### Accepted Papers
+
+* "Introductory Machine Learning for non STEM students" by Javier Garcia-Algarra, https://openreview.net/forum?id=aLdr-6rFn5j
+* "An Interactive Web Application for Decision Tree Learning" by Miriam Elia, Carola Gajek, Alexander Schiendorfer, Wolfgang Reif, https://openreview.net/forum?id=aLdr-6rFn5j
+* "Teaching Computational Machine Learning (without Statistics)" by Katherine M. Kinnaird, https://openreview.net/forum?id=oeM-Rb7nqoh
+* "AI is not Just a Technology" by Claudia Engel, Nicole Coleman; https://openreview.net/forum?id=CF_7wpDpCmp
+* "Teaching the Foundations of Machine Learning with Candy" by Daniela Huppenkothen, Gwendolyn Eadie; https://openreview.net/forum?id=a37DEwWs1wu
+* "Turning Software Engineers into Machine Learning Engineers" by Alexander Schiendorfer, Carola Gajek, Wolfgang Reif; https://openreview.net/forum?id=jm5E97TTMEb
 
 ### Proceedings and Paper Format
 
@@ -47,36 +145,6 @@ We will conduct an open double-blinded peer-review using [openreview.net](https:
 - August 1, 2020: Paper Confirmations
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. If you'd like to help out reviewing papers, please let us know and open an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
-
-## Programme
-
-### Preface - 8. September 2020
-
-To prepare for the workshop, we plan a series of online events and talks before the conference. Please stay tuned to find out more in due course.
-
-| Date | Title                                          | Speaker             |
-| :--      | :--                                            | :--                 |
-| tba | Welcome                                        | Organizers          |
-| tba | Didactics of Data                              | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
-| tba | Experiences in Lectures                        | [Heidi Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
-| tba | Experiences in Bootcamps/Compact Courses       | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
-
-### The Workshop - 14. September 2020
-
-Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities.
-
-| Time     | Title                                          | Speaker             |
-| :--      | :--                                            | :--                 |
-| 09.30 am | Welcome                                        | Organizers          |
-| 09.45 am | Paper Presentations                            | All Authors         |
-| 11.00 am | Coffee break                                   |                     |
-| 11.20 am | Workshop (Remote)                              | All                 |
-| 13.00 pm | Lunch                                          |                     |
-| 02.00 pm | Wrap-Up Session                                | All                 |
-| 02.30 pm | Farewell and Next Steps                        | Organizers          |
-| 02.45 pm | End                                            |                     |
-
-Please note that this will be a virtual workshop.
 
 ## Questions, Concerns or Feedback
 
