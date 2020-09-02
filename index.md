@@ -3,6 +3,8 @@ layout: index
 title: 'Teaching ML @ ECML-PKDD 2020'
 ---
 
+{:toc}
+
 ## About this workshop
 
 Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning (ML) is providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, and quality are public availability. To this date and the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. 
