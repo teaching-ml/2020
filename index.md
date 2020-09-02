@@ -123,12 +123,12 @@ The central activity of the workshop will be twofold:
 
 ### Accepted Papers
 
-* "Introductory Machine Learning for non STEM students" by Javier Garcia-Algarra, https://openreview.net/forum?id=aLdr-6rFn5j
-* "An Interactive Web Application for Decision Tree Learning" by Miriam Elia, Carola Gajek, Alexander Schiendorfer, Wolfgang Reif, https://openreview.net/forum?id=aLdr-6rFn5j
-* "Teaching Computational Machine Learning (without Statistics)" by Katherine M. Kinnaird, https://openreview.net/forum?id=oeM-Rb7nqoh
-* "AI is not Just a Technology" by Claudia Engel, Nicole Coleman; https://openreview.net/forum?id=CF_7wpDpCmp
-* "Teaching the Foundations of Machine Learning with Candy" by Daniela Huppenkothen, Gwendolyn Eadie; https://openreview.net/forum?id=a37DEwWs1wu
-* "Turning Software Engineers into Machine Learning Engineers" by Alexander Schiendorfer, Carola Gajek, Wolfgang Reif; https://openreview.net/forum?id=jm5E97TTMEb
+* "Introductory Machine Learning for non STEM students" by Javier Garcia-Algarra, [paper](https://openreview.net/forum?id=aLdr-6rFn5j)
+* "An Interactive Web Application for Decision Tree Learning" by Miriam Elia, Carola Gajek, Alexander Schiendorfer, Wolfgang Reif, [paper](https://openreview.net/forum?id=aLdr-6rFn5j)
+* "Teaching Computational Machine Learning (without Statistics)" by Katherine M. Kinnaird, [paper](https://openreview.net/forum?id=oeM-Rb7nqoh)
+* "AI is not Just a Technology" by Claudia Engel, Nicole Coleman; [paper](https://openreview.net/forum?id=CF_7wpDpCmp)
+* "Teaching the Foundations of Machine Learning with Candy" by Daniela Huppenkothen, Gwendolyn Eadie; [paper](https://openreview.net/forum?id=a37DEwWs1wu)
+* "Turning Software Engineers into Machine Learning Engineers" by Alexander Schiendorfer, Carola Gajek, Wolfgang Reif; [paper](https://openreview.net/forum?id=jm5E97TTMEb)
 
 ### Proceedings and Paper Format
 
