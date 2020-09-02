@@ -3,9 +3,9 @@ layout: index
 title: 'Teaching ML @ ECML-PKDD 2020'
 ---
 
-# Content
+## Content
 
-* Table of content
+1. Table of content
 {:toc}
 
 ## About this workshop
