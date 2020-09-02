@@ -23,6 +23,8 @@ baseurl: "/2020" # the subpath of your site, e.g. /blog
 url: "https://teaching-ml.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github: "https://github.com/teaching-ml/2020/"
 
+kramdown:
+  parse_block_html: true
 
 # Build settings
 #plugins:
