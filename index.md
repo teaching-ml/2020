@@ -72,14 +72,14 @@ Participants of the workshop session will be motivated to provide feedback to th
 
 | Time/CEST | Title                   | Speaker     |
 | :--       | :--                     | :--         |
-| 09.30 am  | Welcome                 | Organizers  |
-| 09.45 am  | Paper Presentations     | All Authors |
-| 11.00 am  | Coffee break            |             |
-| 11.20 am  | Workshop (Remote)       | All         |
-| 13.00 pm  | Lunch                   |             |
-| 02.00 pm  | Wrap-Up Session         | All         |
-| 02.30 pm  | Farewell and Next Steps | Organizers  |
-| 02.45 pm  | End                     |             |
+| 09.00 am  | Welcome                 | Organizers  |
+| 09.15 am  | Paper Presentations     | All Authors |
+| 10.05 am  | Coffee break            |             |
+| 10.25 am  | Workshop (Remote)       | All         |
+| 12.00 pm  | Lunch                   |             |
+| 01.00 pm  | Wrap-Up Session         | All         |
+| 01.30 pm  | Farewell and Next Steps | Organizers  |
+| 01.45 pm  | End                     |             |
 
 Please note that this will be a virtual workshop only using the [zoom](https://zoom.us) video conferencing utlity. The connection details are:
 
@@ -119,7 +119,7 @@ The central activity of the workshop will be twofold:
 
 1. a call-for-papers whereby teaching professionals or beginners are asked to describe their method of choice when teaching a given ML topic. We like to attract at maximum 4-page long mini-articles (excluding references and acknowledgements) that present or discuss a teaching activity related to machine learning. For more details, see below.
 
-2. **presentations of 5 minute lightning talks of all accepted papers** during the workshop at ECML PKDD 2020
+2. **presentations of 5-7 minute lightning talks of all accepted papers** during the workshop at ECML PKDD 2020
 
 ### Accepted Papers
 
