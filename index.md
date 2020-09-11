@@ -102,6 +102,10 @@ The central activity of the workshop will be twofold:
 * "Teaching the Foundations of Machine Learning with Candy" by Daniela Huppenkothen, Gwendolyn Eadie; [paper](https://openreview.net/forum?id=a37DEwWs1wu)
 * "Turning Software Engineers into Machine Learning Engineers" by Alexander Schiendorfer, Carola Gajek, Wolfgang Reif; [paper](https://openreview.net/forum?id=jm5E97TTMEb)
 
+We would like to warmly thank all of our reviewers:
+
+Alexander Schiendorfer, Steve Schmerler, Fabian Scheipl, Katherine M Kinnaird, Iram Shahzadi, Hussain Kazmi, Heidi Seibold, Oliver Guhr, Peter Steinbach, 
+
 ### Proceedings and Paper Format
 
 All papers will be published in with [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
@@ -122,6 +126,7 @@ We will conduct an open double-blinded peer-review using [openreview.net](https:
 - August 1, 2020: Paper Confirmations
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. If you'd like to help out reviewing papers, please let us know and open an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
+
 
 ## Questions, Concerns or Feedback
 
