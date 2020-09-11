@@ -35,37 +35,6 @@ To prepare for the workshop, we plan one online event with talks before the conf
 | 9.50am | Experiences in Lectures                        | [Video](https://youtu.be/-UYcUy-9kD8) [Slides](https://tinyurl.com/teachingML) | [Heidi Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
 | 10.30am | Experiences in Bootcamps/Compact Courses       | [Video](https://youtu.be/FuQk56oTl5w) [Slides](https://codimd.carpentries.org/p/GfvkCWTYA#/) | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
 
-Each presenter will have 30 minutes time with an additional 5 minutes for questions. **Note that this workshop will be recorded.**
-
-The zoom connection details are:
-
-```
-Topic: ECMLPKDD 2020 Teaching Machine Learning Satellite Event
-Time: Sep 8, 2020 09:00 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
-
-Join Zoom Meeting
-https://us02web.zoom.us/j/81430859704
-
-Meeting ID: 814 3085 9704
-One tap mobile
-+493056795800,,81430859704# Germany
-+496938079883,,81430859704# Germany
-
-Dial by your location
-        +49 30 5679 5800 Germany
-        +49 69 3807 9883 Germany
-        +49 695 050 2596 Germany
-        +49 69 7104 9922 Germany
-        +1 312 626 6799 US (Chicago)
-        +1 346 248 7799 US (Houston)
-        +1 646 558 8656 US (New York)
-        +1 669 900 9128 US (San Jose)
-        +1 253 215 8782 US (Tacoma)
-        +1 301 715 8592 US (Germantown)
-Meeting ID: 814 3085 9704
-Find your local number: https://us02web.zoom.us/u/kb8M4CMyCw
-```
-
 ### The Workshop - September 14, 2020
 
 Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities. See the agenda below. All times are in the CEST timezone.
