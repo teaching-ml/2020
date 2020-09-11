@@ -104,7 +104,7 @@ The central activity of the workshop will be twofold:
 
 We would like to warmly thank all of our reviewers:
 
-Alexander Schiendorfer, Steve Schmerler, Fabian Scheipl, Katherine M Kinnaird, Iram Shahzadi, Hussain Kazmi, Heidi Seibold, Oliver Guhr, Peter Steinbach, 
+Alexander Schiendorfer, Pujaa Rajan, Samujjwal, Steve Schmerler, Fabian Scheipl, Katherine M Kinnaird, Iram Shahzadi, Hussain Kazmi, Heidi Seibold, Oliver Guhr, Peter Steinbach 
 
 ### Proceedings and Paper Format
 
