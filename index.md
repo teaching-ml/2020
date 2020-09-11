@@ -39,7 +39,7 @@ To prepare for the workshop, we plan one online event with talks before the conf
 
 Participants of the workshop session will be motivated to provide feedback to their peers. Depending on the number of submissions, we will divide the presentations based on the field they focus on: vision applications, language applications, general concepts etc. Each of these working groups is asked to collect general patterns on what works and what doesn't. After this session, we will compile a report to summarize and publish the findings of this event and to lay the foundation for future activities. See the agenda below. All times are in the CEST timezone.
 
-**[Please see this document for the details and schedule of the workshop.](https://pad.okfn.de/p/teaching-ml)**
+**[Please see this etherpad for the details and schedule of the workshop.](https://pad.okfn.de/p/teaching-ml)**
 
 | Time/CEST | Title                                                        | Speaker                                               |
 | :-------- | :----------------------------------------------------------- | :---------------------------------------------------- |
