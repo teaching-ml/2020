@@ -57,7 +57,7 @@ Please note that this will be a virtual workshop only using the [zoom](https://z
 
 ```
 Topic: ECMLPKDD 2020 Teaching Machine Learning Workshop
-Time: Sep 14, 2020 09:30 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: Sep 14, 2020 09:00 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
 https://us02web.zoom.us/j/87113621879
