@@ -102,9 +102,9 @@ The central activity of the workshop will be twofold:
 * "Teaching the Foundations of Machine Learning with Candy" by Daniela Huppenkothen, Gwendolyn Eadie; [paper](https://openreview.net/forum?id=a37DEwWs1wu)
 * "Turning Software Engineers into Machine Learning Engineers" by Alexander Schiendorfer, Carola Gajek, Wolfgang Reif; [paper](https://openreview.net/forum?id=jm5E97TTMEb)
 
-We would like to warmly thank all of our reviewers:
+We would like to warmly thank all of our reviewers in alphabetical order:
 
-Alexander Schiendorfer, Pujaa Rajan, Samujjwal, Steve Schmerler, Fabian Scheipl, Katherine M Kinnaird, Iram Shahzadi, Hussain Kazmi, Heidi Seibold, Oliver Guhr, Peter Steinbach 
+Samujjwal Ghosh, Oliver Guhr, Hussain Kazmi, Katherine M. Kinnaird, Pujaa Rajan, Fabian Scheipl, Alexander Schiendorfer, Steve Schmerler, Heidi Seibold, Iram Shahzadi, Sebastian Starke, Peter Steinbach
 
 ### Proceedings and Paper Format
 
