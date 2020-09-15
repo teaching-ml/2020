@@ -31,7 +31,7 @@ To prepare for the workshop, we plan one online event with talks before the conf
 | Time/CEST | Title                                          | Material                                  | Speaker             |
 | :--      | :--                                            | :--                 | ---                 |
 | 9am | Welcome                                        |                                         | Organizers          |
-| 9.10am | Didactics of Data                              | [Video](https://youtu.be/qGYGhpwG9iI) | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
+| 9.10am | Didactics of Data                              | [Video](https://youtu.be/qGYGhpwG9iI) [Slides](./download/TeachingML_Fiebrink_ECMLPKDDDWorkshop.pdf) | [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)    |
 | 9.50am | Experiences in Lectures                        | [Video](https://youtu.be/-UYcUy-9kD8) [Slides](https://tinyurl.com/teachingML) | [Heidi Seibold](http://www.compstat.statistik.uni-muenchen.de/people/seibold/), [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) |
 | 10.30am | Experiences in Bootcamps/Compact Courses       | [Video](https://youtu.be/FuQk56oTl5w) [Slides](https://codimd.carpentries.org/p/GfvkCWTYA#/) | [Anne Fouillioux](https://www.mn.uio.no/geo/english/people/adm/annefou/), [Peter Steinbach](https://github.com/psteinb/) |
 
