@@ -95,7 +95,7 @@ The central activity of the workshop will be twofold:
 
 ### Accepted Papers
 
-* "Introductory Machine Learning for non STEM students" by Javier Garcia-Algarra, [paper](https://openreview.net/forum?id=aLdr-6rFn5j)
+* "Introductory Machine Learning for non STEM students" by Javier Garcia-Algarra, [paper](https://openreview.net/forum?id=dhmIJ9SwAuG)
 * "An Interactive Web Application for Decision Tree Learning" by Miriam Elia, Carola Gajek, Alexander Schiendorfer, Wolfgang Reif, [paper](https://openreview.net/forum?id=aLdr-6rFn5j)
 * "Teaching Computational Machine Learning (without Statistics)" by Katherine M. Kinnaird, [paper](https://openreview.net/forum?id=oeM-Rb7nqoh)
 * "AI is not Just a Technology" by Claudia Engel, Nicole Coleman; [paper](https://openreview.net/forum?id=CF_7wpDpCmp)
