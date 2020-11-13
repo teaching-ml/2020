@@ -41,17 +41,20 @@ Participants of the workshop session will be motivated to provide feedback to th
 
 **[Please see this etherpad for the details and schedule of the workshop.](https://pad.okfn.de/p/teaching-ml)**
 
-| Time/CEST | Title                                                        | Speaker                                               |
-| :-------- | :----------------------------------------------------------- | :---------------------------------------------------- |
-| @home     | [Online Paper Presentations](https://www.youtube.com/playlist?list=PLdDZRjAdquEN3PXbzX4cUKXCFDR_vNo8O) | Nicole Coleman & Claudia Engel, Katherine M. Kinnaird |
-| 09.00 am  | Welcome                                                      | Organizers                                            |
-| 09.15 am  | Paper Presentations                                          | All Authors                                           |
-| 10.05 am  | Coffee break                                                 |                                                       |
-| 10.25 am  | Workshop (Remote)                                            | All                                                   |
-| 12.00 pm  | Lunch                                                        |                                                       |
-| 01.00 pm  | Wrap-Up Session                                              | All                                                   |
-| 01.30 pm  | Farewell and Next Steps                                      | Organizers                                            |
-| 01.45 pm  | End                                                          |                                                       |
+| Time/CEST | Title                                                                                                                                                                                          | Speaker                                               |
+| :-------- | :-----------------------------------------------------------                                                                                                                                   | :---------------------------------------------------- |
+| @home     | [Online Paper Presentations](https://www.youtube.com/playlist?list=PLdDZRjAdquEN3PXbzX4cUKXCFDR_vNo8O)                                                                                         | Nicole Coleman & Claudia Engel, Katherine M. Kinnaird |
+| 09.00 am  | Welcome                                                                                                                                                                                        | Organizers                                            |
+| 09.15 am  | Paper Presentations                                                                                                                                                                            | All Authors                                           |
+| 10.05 am  | Coffee break                                                                                                                                                                                   |                                                       |
+| 10.25 am  | Workshop (pad as [.txt](./download/workshop/teaching-ml-mainpad.txt),[.html](./download/workshop/teaching-ml-mainpad.html), remote)                                                            | All                                                   |
+|           | discussion group "education research" (pad as [.txt](./download/workshop/teaching-ml-team1-eduresearch.txt),[.html](./download/workshop/teaching-ml-team1-eduresearch.html), remote)           |                                                       |
+|           | discussion group "open materials" (pad as [.txt](./download/workshop/teaching-ml-team2-openresources.txt),[.html](./download/workshop/teaching-ml-team2-openresources.txt), remote)            |                                                       |
+|           | discussion group "learning from others" (pad as [.txt](./download/workshop/teaching-ml-team3-learnfromothers.txt),[.html](./download/workshop/teaching-ml-team3-learnfromothers.html), remote) |                                                       |
+| 12.00 pm  | Lunch                                                                                                                                                                                          |                                                       |
+| 01.00 pm  | Wrap-Up Session                                                                                                                                                                                | All                                                   |
+| 01.30 pm  | Farewell and Next Steps                                                                                                                                                                        | Organizers                                            |
+| 01.45 pm  | End                                                                                                                                                                                            |                                                       |
 
 Please note that this will be a virtual workshop only using the [zoom](https://zoom.us) video conferencing utlity. The connection details are:
 
